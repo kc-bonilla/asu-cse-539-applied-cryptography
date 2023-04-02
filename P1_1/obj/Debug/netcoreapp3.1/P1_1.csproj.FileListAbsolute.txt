@@ -1,0 +1,14 @@
+/home/admin/asu-cse-539-applied-cryptography/p1_1/bin/Debug/netcoreapp3.1/P1_1
+/home/admin/asu-cse-539-applied-cryptography/p1_1/bin/Debug/netcoreapp3.1/P1_1.deps.json
+/home/admin/asu-cse-539-applied-cryptography/p1_1/bin/Debug/netcoreapp3.1/P1_1.runtimeconfig.json
+/home/admin/asu-cse-539-applied-cryptography/p1_1/bin/Debug/netcoreapp3.1/P1_1.runtimeconfig.dev.json
+/home/admin/asu-cse-539-applied-cryptography/p1_1/bin/Debug/netcoreapp3.1/P1_1.dll
+/home/admin/asu-cse-539-applied-cryptography/p1_1/bin/Debug/netcoreapp3.1/P1_1.pdb
+/home/admin/asu-cse-539-applied-cryptography/p1_1/obj/Debug/netcoreapp3.1/P1_1.csproj.AssemblyReference.cache
+/home/admin/asu-cse-539-applied-cryptography/p1_1/obj/Debug/netcoreapp3.1/P1_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/asu-cse-539-applied-cryptography/p1_1/obj/Debug/netcoreapp3.1/P1_1.AssemblyInfoInputs.cache
+/home/admin/asu-cse-539-applied-cryptography/p1_1/obj/Debug/netcoreapp3.1/P1_1.AssemblyInfo.cs
+/home/admin/asu-cse-539-applied-cryptography/p1_1/obj/Debug/netcoreapp3.1/P1_1.csproj.CoreCompileInputs.cache
+/home/admin/asu-cse-539-applied-cryptography/p1_1/obj/Debug/netcoreapp3.1/P1_1.dll
+/home/admin/asu-cse-539-applied-cryptography/p1_1/obj/Debug/netcoreapp3.1/P1_1.pdb
+/home/admin/asu-cse-539-applied-cryptography/p1_1/obj/Debug/netcoreapp3.1/P1_1.genruntimeconfig.cache
